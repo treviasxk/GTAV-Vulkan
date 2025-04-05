@@ -30,6 +30,6 @@ Paypal: trevias@live.com
 
 ## FAQ
     * Work in GTA Online?
-    - Yes
+    - No
     * Can lags still happen?
     - Yes, in places where the shader has not yet been compiled for vulkan, but once compiled it will no longer lag.
